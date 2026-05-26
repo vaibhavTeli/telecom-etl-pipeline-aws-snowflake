@@ -1,0 +1,8 @@
+# Ignore environment variables / secrets
+.env
+
+# Ignore large data files
+telecom_billing_raw.csv
+
+# Optional: Ignore all CSV files in the project
+*.csv
